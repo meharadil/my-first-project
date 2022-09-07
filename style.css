@@ -1,0 +1,60 @@
+body{
+    background: url(./css-background-effects-thumb.jpg);
+    background-repeat:no-repeat ;
+    background-size: 1300px;
+
+}
+h1{
+    color: azure;
+    font-size: 50px;
+}
+h1:hover{
+    /* background: #000; */
+    color: blue;
+}
+.container{
+   text-align: center;
+   font-size: 50px;
+}
+.intro{
+    color: rgb(224, 105, 25);
+}
+.intro:hover{
+    color: beige;
+}
+.it{
+    color: aliceblue;
+    float: right;
+    margin-top: -136px;
+    font-size: 50px;
+  }
+  p{
+    color: aliceblue;
+    margin-top: 130px;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  button{
+    padding: 20px 40px;
+    margin-top: -56px;
+    margin-left: 20px;
+    font-size: 20px;
+    background:  rgb(224, 105, 25);
+    color: aliceblue;
+    border-radius: 10px;
+    border: 3px dotted rgb(224, 105, 25);
+  }
+  button:hover{
+    background: aliceblue ;
+    color:  rgb(224, 105, 25);
+
+  }
+  .adil{
+    margin-left:935px;
+    
+  }
+  @media  (max-width: 600px){
+  }
+    
+  
+
